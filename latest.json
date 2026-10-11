@@ -1,6 +1,6 @@
 {
-  "tag": "6",
-  "name": "6",
-  "apkUrl": "https://github.com/HarinManiK/TM/releases/download/6/ThoughtSlate-6.apk",
-  "changelog": "1. Reminders are much more reliable — snooze no longer fires straight back at you, and a reminder you miss no longer disappears without a trace.\n2. Shared tasks now arrive instantly, and can remind both people rather than only the person you sent it to.\n3. The assistant now understands a friend's TS code or name, not just internal ids.\n4. Update checks now work on college and office wifi."
+  "tag": "8",
+  "name": "8",
+  "apkUrl": "https://github.com/HarinManiK/TM/releases/download/8/ThoughtSlate-v8-b7ed2a0.apk",
+  "changelog": "1. Improved workflow with google sheets.\n2. Thought Slate can now search the web.\n3. New reworked widget.\n4. New Chat interface."
 }
